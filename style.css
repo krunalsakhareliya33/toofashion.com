@@ -335,6 +335,7 @@ background-image: url(imges/b1.jpg);
 .s1s1{
     width: 100%;
     height: 68vh;
+    background-repeat: no-repeat;
     background-image: url(imges/s1.jpg);
     transition: 0.2s ;
     background-size: 100%;
@@ -346,6 +347,7 @@ background-image: url(imges/b1.jpg);
 }
 .s1s2{
     width: 100%;
+    background-repeat: no-repeat;
     height: 68vh;
     background-image: url(imges/s2.jpg);
     transition: 0.2s ;
@@ -355,9 +357,11 @@ background-image: url(imges/b1.jpg);
     width: 100%;
     height: 68vh;
     background-image: url(imges/s2hover.jpg);
+    background-repeat: no-repeat;
 }
 .s1s3{
     width: 100%;
+    background-repeat: no-repeat;
     height: 68vh;
     background-image: url(imges/s3hover.jpg);
     transition: 0.2s ;
@@ -365,11 +369,13 @@ background-image: url(imges/b1.jpg);
 }
 .s1s3:hover{
     width: 100%;
+    background-repeat: no-repeat;
     height: 68vh;
     background-image: url(imges/s3.jpg);
 }
 .s1s4{
     width: 100%;
+    background-repeat: no-repeat;
     height: 68vh;
     background-image: url(imges/s4.jpg);
     transition: 0.3s ;
@@ -377,11 +383,13 @@ background-image: url(imges/b1.jpg);
 }
 .s1s4:hover{
     width: 100%;
+    background-repeat: no-repeat;
     height: 68vh;
     background-image: url(imges/s4hover.jpg);
 }
 .s1s5{
     width: 100%;
+    background-repeat: no-repeat;
     height: 68vh;
     background-image: url(imges/s5.jpg);
     transition: 0.2s ;
@@ -390,16 +398,19 @@ background-image: url(imges/b1.jpg);
 .s1s5:hover{
     width: 100%;
     height: 68vh;
+    background-repeat: no-repeat;
     background-image: url(imges/s5hover.jpg);
 }
 .s1s6{
     width: 100%;
     height: 68vh;
+    background-repeat: no-repeat;
     background-image: url(imges/s6.jpg);
     transition: 0.2s ;
     background-size: 100%;
 }
 .s1s6:hover{
+    background-repeat: no-repeat;
     width: 100%;
     height: 68vh;
     background-image: url(imges/s6hover.jpg);
@@ -407,18 +418,21 @@ background-image: url(imges/b1.jpg);
 .s1s7{
     width: 100%;
     height: 68vh;
+    background-repeat: no-repeat;
     background-image: url(imges/s7.jpg);
     transition: 0.2s ;
     background-size: 100%;
 }
 .s1s7:hover{
     width: 100%;
+    background-repeat: no-repeat;
     height: 68vh;
     background-image: url(imges/s7hover.jpg);
 }
 .s1s8{
     width: 100%;
     height: 68vh;
+    background-repeat: no-repeat;
     background-image: url(imges/s8.jpg);
     transition: 0.3s ;
     background-size: 100%;
@@ -426,6 +440,7 @@ background-image: url(imges/b1.jpg);
 .s1s8:hover{
     width: 100%;
     height: 68vh;
+    background-repeat: no-repeat;
     background-image: url(imges/s8hover.jpg);
 }
 .s1 a{
